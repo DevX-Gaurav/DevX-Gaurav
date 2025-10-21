@@ -133,7 +133,8 @@ I love turning ideas into **reality using web apps and AI models also gives an i
   <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=postman" height="50" style="margin: 20px;"/>
-  <img src="https://skillicons.dev/icons?i=jest" height="50" style="margin: 20px;"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="50" style="margin: 20px;"/>
+  <!-- <img src="https://skillicons.dev/icons?i=jest" height="50" style="margin: 20px;"/> -->
 
   
 </p>
@@ -141,10 +142,10 @@ I love turning ideas into **reality using web apps and AI models also gives an i
 ### 🧩 System Designs  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin: 20px;"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" style="margin: 20px;"/>
+  <!-- <img src="https://skillicons.dev/icons?i=kubernetes" height="50" style="margin: 20px;"/> -->
   <img src="https://skillicons.dev/icons?i=nginx" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=kafka" height="50" style="margin: 20px;"/>
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="50" style="margin: 20px;"/>
+  <!-- <img src="https://skillicons.dev/icons?i=rabbitmq" height="50" style="margin: 20px;"/> -->
   <img src="https://skillicons.dev/icons?i=redis" height="50" style="margin: 20px;"/>
 
 
