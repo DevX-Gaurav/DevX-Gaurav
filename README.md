@@ -143,8 +143,8 @@ I love turning ideas into **reality using web apps and AI models also gives an i
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin: 20px;"/>
   <!-- <img src="https://skillicons.dev/icons?i=kubernetes" height="50" style="margin: 20px;"/> -->
-  <img src="https://skillicons.dev/icons?i=nginx" height="50" style="margin: 20px;"/>
-  <!-- <img src="https://skillicons.dev/icons?i=kafka" height="50" style="margin: 20px;"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=nginx" height="50" style="margin: 20px;"/> -->
+  <img src="https://skillicons.dev/icons?i=kafka" height="50" style="margin: 20px;"/>
   <!-- <img src="https://skillicons.dev/icons?i=rabbitmq" height="50" style="margin: 20px;"/> -->
   <img src="https://skillicons.dev/icons?i=redis" height="50" style="margin: 20px;"/>
 
