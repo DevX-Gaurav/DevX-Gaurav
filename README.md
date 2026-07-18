@@ -47,7 +47,7 @@ I love turning ideas into **reality using web apps and AI models also gives an i
 
 ### 🌱 What I’m Learning
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,spring" height="40" style="margin:5px;"/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python" height="40" style="margin:5px;"/>
 
 </div>
 
@@ -96,13 +96,13 @@ I love turning ideas into **reality using web apps and AI models also gives an i
   <img src="https://skillicons.dev/icons?i=java" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=python" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="50" style="margin: 20px;"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" style="margin: 20px;"/>
+  <!-- <img src="https://skillicons.dev/icons?i=typescript" height="50" style="margin: 20px;"/> -->
 </p>
 
 ### 🎨 Frontend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" height="50" style="margin: 20px;"/>
-  <img src="https://skillicons.dev/icons?i=next" height="50" style="margin: 20px;"/>
+  <!-- <img src="https://skillicons.dev/icons?i=next" height="50" style="margin: 20px;"/> -->
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=html" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=css" height="50" style="margin: 20px;"/>
@@ -112,8 +112,8 @@ I love turning ideas into **reality using web apps and AI models also gives an i
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=express" height="50" style="margin: 20px;"/>
-  <img src="https://skillicons.dev/icons?i=django" height="50" style="margin: 20px;"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="50" style="margin: 20px;"/>
+  <!-- <img src="https://skillicons.dev/icons?i=django" height="50" style="margin: 20px;"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=spring" height="50" style="margin: 20px;"/> -->
 </p>
 
 ### 🗄️ Databases  
@@ -121,16 +121,15 @@ I love turning ideas into **reality using web apps and AI models also gives an i
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=postgresql" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin: 20px;"/>
-
-  <img src="https://skillicons.dev/icons?i=redis" height="50" style="margin: 20px;"/>
+  <!-- <img src="https://skillicons.dev/icons?i=redis" height="50" style="margin: 20px;"/> -->
 </p>
 
 ### 🛠 Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=github" height="50" style="margin: 20px;"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50" style="margin: 20px;"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin: 20px;"/>
+  <!-- <img src="https://skillicons.dev/icons?i=linux" height="50" style="margin: 20px;"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin: 20px;"/> -->
   <img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin: 20px;"/>
   <img src="https://skillicons.dev/icons?i=postman" height="50" style="margin: 20px;"/>
 
@@ -140,11 +139,9 @@ I love turning ideas into **reality using web apps and AI models also gives an i
 
 ### 🧩 System Designs  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin: 20px;"/>
-
-  <img src="https://skillicons.dev/icons?i=kafka" height="50" style="margin: 20px;"/>
-
-  <img src="https://skillicons.dev/icons?i=redis" height="50" style="margin: 20px;"/>
+  <!-- <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin: 20px;"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=kafka" height="50" style="margin: 20px;"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=redis" height="50" style="margin: 20px;"/> -->
 
 
 
